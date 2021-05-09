@@ -37,7 +37,7 @@ pavel.svec@ssps.cz <br/>
     * Systém neskončí s chybou ve více než 1% případů
   * Bezpečnost
     * Systém nedovoví přihlášení neautorizovaným uživatelům
-    * Systém nebude ukládat hesla v otevřeném formátu (budou hashovaná HASH256)
+    * Systém nebude ukládat hesla v otevřeném formátu (budou hashovaná SHA256)
   * Dokumentace
     * Příručka administrátora - manuál pro instalaci a zálohování systému
     * Uživatelská příručka - základní manuál pro běžného uživatele
