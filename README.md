@@ -1,7 +1,7 @@
 # Užitečný Software
 ## Verze 1
 
-###Užitečný software podle vlastního uvážení. Jen hry jsou zakázané.
+Užitečný software podle vlastního uvážení. Jen hry jsou zakázané.
 
 Pavel Švec <br/>
 pavel.svec@ssps.cz <br/>
