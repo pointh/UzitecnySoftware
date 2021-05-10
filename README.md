@@ -13,6 +13,7 @@ pavel.svec@ssps.cz <br/>
   * Kontakty
     * Pavel Švec pavel.svec@ssps.cz, tel. 333 333 333, Twitter @progman
   * Okdazy na ostatní dokumenty
+    * Zadávací dokumentace na 
 * Celkový popis
   * Funkce
   * Uživatelské skupiny
@@ -41,4 +42,4 @@ pavel.svec@ssps.cz <br/>
   * Dokumentace
     * Příručka administrátora - manuál pro instalaci a zálohování systému
     * Uživatelská příručka - základní manuál pro běžného uživatele
-    
+    * Atd...
