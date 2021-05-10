@@ -11,10 +11,12 @@ pavel.svec@ssps.cz <br/>
   * Účel dokumentu
   * Konvence dokumentu
     * Důležitost - 1 nejvyšší, 5 nejnižší
+    * Všechny kritické požadavky budou tučně
   * Kontakty
     * Pavel Švec pavel.svec@ssps.cz, tel. 333 333 333, Twitter @progman
-  * Okdazy na ostatní dokumenty
-    * Zadávací dokumentace na 
+    * Jaromír Jonáš jonas@ssps.cz, Twitter @jjonas
+  * Odkazy na ostatní dokumenty
+    * Zadávací dokumentace na ...
 * Celkový popis
   * Funkce
   * Uživatelské skupiny
