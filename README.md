@@ -23,15 +23,15 @@ pavel.svec@ssps.cz <br/>
   * Uživatelská rozhraní
   * Softwarová rozhraní
 * Vlastnosti systému
-  * Autentikace
+  1. Autentikace
     * Důležitost: 1
     * Vstup : jméno a heslo. Jméno přidělené administrátorem, heslo min 6 znaků
     * Akce : odeslání jména a hesla na server tlačítkem Přihlásit
     * Výstup : přihlášený uživatel s oprávněním pro editaci záznamů
     * Výstup : chybové hlášení při nesprávných přihlašovacích údajích
-  * ... další vlastnosti
-  * ...
-  * ...
+  1. ... další vlastnosti
+  1. ...
+  1. ...
 * Nefunkční požadavky
   * Odezva
     * Systém bude poskytovat odezvu do 2s od zadání akce
