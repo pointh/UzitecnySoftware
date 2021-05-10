@@ -1,6 +1,7 @@
 # Užitečný Software
 ## Verze 1
-Užitečný software podle vlastního uvážení. Jen hry jsou zakázané.
+
+###Užitečný software podle vlastního uvážení. Jen hry jsou zakázané.
 
 Pavel Švec <br/>
 pavel.svec@ssps.cz <br/>
@@ -13,6 +14,7 @@ pavel.svec@ssps.cz <br/>
   * Kontakty
     * Pavel Švec pavel.svec@ssps.cz, tel. 333 333 333, Twitter @progman
   * Okdazy na ostatní dokumenty
+    * Zadávací dokumentace na 
 * Celkový popis
   * Funkce
   * Uživatelské skupiny
@@ -41,4 +43,4 @@ pavel.svec@ssps.cz <br/>
   * Dokumentace
     * Příručka administrátora - manuál pro instalaci a zálohování systému
     * Uživatelská příručka - základní manuál pro běžného uživatele
-    
+    * Atd...
